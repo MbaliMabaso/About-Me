@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MbaliMabaso
-- 👀 I’m a former educator and aspiring data scientist with a Master’s in Psychology, which provided a strong foundation
+- 👀 I’m a former educator and data scientist/analyst with a Master’s in Psychology, which provided a strong foundation
    in statistics and data analysis.
 -  I am passionate about combining research and data analysis to uncover insights that drive data-driven decision-making.
 -  🌱 I’m currently learning Advanced SQL and techniques for improving machine learning models.
